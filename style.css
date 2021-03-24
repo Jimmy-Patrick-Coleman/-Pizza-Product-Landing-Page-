@@ -1,0 +1,90 @@
+#header {
+    flex-direction: column; 
+}
+#header-img {
+    width: 100px;
+}
+#nav-bar {
+    background-color: seagreen;
+    position: fixed;
+    top: 0; 
+    width: 100%
+}
+.nav-ul {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+li { 
+    list-style: none;
+
+}
+
+main {
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+    background-image: url(images/360_F_275924184_GP4ACV80EK8NokxlFaUB2qykpXKrroqx.jpg);
+}
+#form_div {
+    background-color: red;
+}
+#About_us {
+    background-color: white;
+    width: 50%;
+    border: 25px solid dodgerblue;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Creation {
+    background-color: white;
+    width: 50%;
+    border: 25px solid dodgerblue;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#The_Menu {
+    background-image: url(images/people-having-dinner-together-sharing-600w-1918835594.webp);
+    width: 50%;
+    border: 25px solid dodgerblue;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.green-div {
+    background-color: green;
+    width: 50%;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.white-div {
+    background-color: white;
+    width: 50%;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.red-div {
+    background-color: red;
+    width: 50%;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    padding: 3px;
+    background-color: white;
+}
+@media only screen and (max-width: 600px) {
+    #nav-bar {
+    display: none;
+    }
+  }
+
