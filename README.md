@@ -4,6 +4,6 @@ It had to be deleted because reuploading was faster than dealing with changing t
 
 This is my Pizza Product Landing Page.
 
-view at https://jimmypcoleman.github.io/-Pizza-Product-Landing-Page-/. 
+view at  
 
 As tobey says its pizza time.
